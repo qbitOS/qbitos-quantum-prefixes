@@ -1,0 +1,23 @@
+# qbitos{quantum-prefixes}
+
+JavaScript quantum prefix API, cross-app sync, and language patterns.
+
+## Compliance Root
+
+- Canonical policy: `https://github.com/qbitOS/compliance`
+
+## Cross-Implementation Path
+
+`DAC -> Iron Line -> Prefixes -> Quantum Gutter -> .qbit -> preflight`
+
+## Control Envelope
+
+`DAC/Prefix/Steno/Iron-Line/Preflight/search-history controls`
+
+## Integration Targets
+
+- `qbitos-dac`
+- `qbitos-steno`
+- `qbitos-preflight`
+- `qbitos-prefix-engine`
+- `qbit`
